@@ -26,4 +26,4 @@ Fixed rapid off/on switching. After restarting NVDA, Kierowca remains off until 
 
 ## Pobieranie / Downloads
 
-[Najnowsza wersja / Latest version](https://proszczok.pl/kierowca/). Pobieranie i aktualizacje obsługuje proszczok.pl. GitHub publikuje informacje o wydaniach. / Downloads and updates are served by proszczok.pl; GitHub publishes release announcements.
+[Najnowsza wersja / Latest version](https://proszczok.pl/kierowca/) · [Pliki dodatku na GitHubie / GitHub add-on downloads](https://github.com/proszczok2002/Kierowca-by-Proszczok/releases). Każde wydanie zawiera plik .nvda-addon także na GitHubie; automatyczny aktualizator korzysta wyłącznie z proszczok.pl. / Each release also includes a .nvda-addon file on GitHub; automatic updates use proszczok.pl exclusively.

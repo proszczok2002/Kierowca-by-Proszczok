@@ -10,7 +10,9 @@ An NVDA add-on that routes synthesizer speech or application audio through Virtu
 
 [Download the latest add-on from proszczok.pl](https://proszczok.pl/kierowca/Kierowca%20by%20Proszczok.nvda-addon)
 
-GitHub is the project's showcase, release history and contact point. Downloads and the updater use **proszczok.pl**. The download link always serves the latest version; GitHub does not provide update packages.
+[Download the 1.78 add-on file directly from GitHub](https://github.com/proszczok2002/Kierowca-by-Proszczok/releases/download/v1.78/Kierowca-by-Proszczok-1.78.nvda-addon)
+
+GitHub provides documentation, release history, contact and an additional manual download of the `.nvda-addon` file. Each release includes its own installer, identical to the package on the author's website. Automatic updates continue to use **proszczok.pl** exclusively.
 
 ## Features
 
@@ -51,4 +53,4 @@ Issues are public. Include the add-on and NVDA versions, your cable setup and st
 
 ## Repository contents
 
-This public repository contains documentation, release information and issue forms. It does not contain development sources or installer copies. Project sources are maintained separately. The downloadable NVDA package includes modules needed to run the add-on; keeping sources out of this repository does not conceal the contents of that package.
+The repository files contain documentation, release information and issue forms. Ready-to-install packages are separate GitHub Releases assets. Development sources are maintained separately. The downloadable NVDA package includes modules needed to run the add-on; keeping sources out of the repository files does not conceal the contents of that package.

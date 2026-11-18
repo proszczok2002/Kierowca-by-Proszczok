@@ -10,9 +10,11 @@ Dodatek do NVDA, który przekierowuje mowę syntezatora lub dźwięk programu pr
 
 [Pobierz najnowszy dodatek z proszczok.pl](https://proszczok.pl/kierowca/Kierowca%20by%20Proszczok.nvda-addon)
 
+[Pobierz plik dodatku 1.78 bezpośrednio z GitHuba](https://github.com/proszczok2002/Kierowca-by-Proszczok/releases/download/v1.78/Kierowca-by-Proszczok-1.78.nvda-addon)
+
 Oficjalna strona: **https://proszczok.pl/kierowca/**. Link pobierania zawsze prowadzi do najnowszego wydania.
 
-GitHub służy jako wizytówka, historia wydań i miejsce zgłaszania problemów. Pobieranie oraz aktualizator działają przez **proszczok.pl**. GitHub nie jest serwerem aktualizacji.
+GitHub służy jako wizytówka, historia wydań, miejsce zgłaszania problemów i dodatkowe miejsce ręcznego pobrania pliku `.nvda-addon`. Każde kolejne wydanie otrzymuje własny plik w GitHub Releases, identyczny z paczką na stronie autora. Automatyczny aktualizator nadal działa wyłącznie przez **proszczok.pl**.
 
 ## Co potrafi dodatek?
 
@@ -59,4 +61,4 @@ Zgłoszenia są publiczne. Opisz wersję dodatku i NVDA, konfigurację kabli ora
 
 ## Zawartość tego repozytorium
 
-To publiczne repozytorium zawiera opis, instrukcję, informacje o wydaniach i formularze kontaktowe. Nie zawiera źródeł rozwojowych ani kopii instalatora. Źródła projektu są utrzymywane oddzielnie. Instalacyjna paczka NVDA zawiera moduły niezbędne do działania dodatku; brak źródeł w tym repozytorium nie oznacza ukrycia zawartości pobranej paczki.
+Pliki repozytorium zawierają opis, instrukcję, informacje o wydaniach i formularze kontaktowe. Gotowe instalatory są osobnymi załącznikami w GitHub Releases. Źródła rozwojowe projektu są utrzymywane oddzielnie. Instalacyjna paczka NVDA zawiera moduły niezbędne do działania dodatku; brak źródeł w plikach repozytorium nie oznacza ukrycia zawartości pobranej paczki.
