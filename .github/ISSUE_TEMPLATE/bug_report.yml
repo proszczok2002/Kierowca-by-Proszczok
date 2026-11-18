@@ -1,0 +1,32 @@
+name: Błąd / Bug report
+description: Zgłoś problem z Kierowcą / Report a problem with Kierowca
+title: "[Błąd / Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Zgłoszenie będzie publiczne. Usuń dane prywatne z logów. / This issue will be public. Remove private information from logs."
+  - type: input
+    id: versions
+    attributes:
+      label: Wersje / Versions
+      description: Kierowca, NVDA, Windows
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Konfiguracja audio / Audio setup
+      description: Źródło, cel, kabel mikrofonu TeamTalk / Source, target, TeamTalk microphone cable
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem i kroki odtworzenia / Problem and steps to reproduce
+      description: Co się dzieje i czego oczekujesz? / What happens and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Fragment logu / Log excerpt
+      description: Opcjonalnie, po usunięciu danych prywatnych / Optional, after removing private information
+      render: text

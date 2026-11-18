@@ -1,0 +1,10 @@
+name: Pytanie lub pomysł / Question or suggestion
+description: Napisz do autora / Contact the author
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Wiadomość / Message
+      description: Pytanie o obsługę lub propozycja funkcji. Wiadomość jest publiczna. / Usage question or feature suggestion. This message is public.
+    validations:
+      required: true
