@@ -35,7 +35,9 @@ Windows, NVDA 2023.1 or later, installed Virtual Audio Cable, and TeamTalk or an
 
 ## Example: Line 1 → Line 3 → TeamTalk
 
-Set NVDA's output to the Line 1 playback endpoint. Select Line 1 recording as the source in Kierowca and Line 3 playback as the target. In TeamTalk, select Line 3 recording as the microphone and keep playback on headphones or speakers.
+1. In NVDA settings, select **Line 1** as the speech output device. To share audio from another app, set its output to **Line 1** in the Windows volume mixer.
+2. In Kierowca, select **Line 1** recording as the source and **Line 3** playback as the target.
+3. In TeamTalk, select **Line 3** recording as the microphone and use headphones or speakers for playback.
 
 Kierowca's output and TeamTalk's microphone must use **the same cable number**. Kierowca does not change TeamTalk's microphone selection.
 

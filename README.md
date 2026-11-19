@@ -39,7 +39,7 @@ Windows, NVDA 2023.1 lub nowszy, zainstalowany Virtual Audio Cable oraz TeamTalk
 
 ## Przykład: Line 1 → Line 3 → TeamTalk
 
-1. Wyjście syntezatora NVDA: odtwarzające wyjście **Line 1**.
+1. W ustawieniach NVDA wybierz **Line 1** jako urządzenie wyjściowe mowy. Jeśli chcesz przesłać dźwięk innego programu, ustaw jego wyjście na **Line 1** w mikserze głośności Windows.
 2. Źródło w Kierowcy: nagrywające wejście **Line 1**.
 3. Cel w Kierowcy: odtwarzające wyjście **Line 3**.
 4. Mikrofon w TeamTalk: nagrywające wejście **Line 3**.
